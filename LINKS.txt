@@ -1,0 +1,9 @@
+Blindtext:
+http://www.loremipsum.de/
+
+
+Image-Placeholder:
+http://lorempixel.com/
+
+Uebungen:
+https://www.w3schools.com/css/exercise.asp
